@@ -5,3 +5,5 @@
 - Lesson #2
 	- Development platform
 	- Numpy vs Pandas
+- Projetos
+	- Contém os projetos e atividades desenvolvidos na disciplina
