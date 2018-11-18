@@ -1,9 +1,55 @@
 # EEC1509 - MachineLearning
 
+# EEC1509 - MachineLearning
+
 - Lesson #1
 	- Motivation, outline
 - Lesson #2
 	- Development platform
 	- Numpy vs Pandas
-- Projetos
-	- Contém os projetos e atividades desenvolvidos na disciplina
+- Lesson #3
+	- Key definitions
+	- Types of Machine Learning
+	- Machine Learning Workflow
+	- Main challenges
+	- End-to-end ML project
+- Lesson #4
+	- Linear Regression (one variable)
+	- Cost function
+	- Gradient descent
+	- Refresher on linear algebra concepts
+    
+- Lesson #5
+	- Linear Regresion (multiple variables)
+	- Exercises
+- Lesson #6
+	- Univariate KNN
+	- Multivariate KNN
+	- Hyperparameter Optimization
+	- Cross-Validation
+- Lesson #07
+	- Classification problem using Logistic Regression
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization
+- Lesson #08
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
+- Lesson #09
+	- Introduction to Decision Tree
+	- Converting categorical variables
+	- Splitting Data
+	- Decision Trees as flows of data
+	- Entropy
+	- Information gain
+	- Applying Decision Trees
+	- Overfitting problem
+
+- Projetos (Contém os projetos e atividades desenvolvidos na disciplina)
+    - Regressão Linear
+    - Regressão Linear - Pipeline
+    - KMeans e Decision Tree aplicados no Cartola FC
+	
